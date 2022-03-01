@@ -75,7 +75,6 @@ table {
 	align-items: center;
 }
 .h_f li{
-	
 	display: block;
 }
 .h_f li a{
@@ -84,9 +83,11 @@ table {
 	display: block;
 	text-decoration: none;
 	color: #000;
+	font-size: 20px;
 }
 .h_f li a:hover{
 	text-decoration: overline;
+	font-style: oblique;
 }
 
 #con{
@@ -187,6 +188,7 @@ table {
 }
 .types_con .tc_sidebar{
 	width: 30%;
+	background-color: #c8c8c8;
 	
 }
 .tc_sidebar ul{
